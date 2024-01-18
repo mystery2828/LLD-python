@@ -1,0 +1,2 @@
+- Classes: Hotel, Room, Guest, Reservation, etc.
+- Features: Room Booking, Check-in/Check-out, Billing, Room Availability.
